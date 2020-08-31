@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Code One UP
+featuredImage: 'https://ucarecdn.com/f45ebdf6-d338-4bf2-8438-17af5f30b6b8/'
+subtitle: '**Get the ultimate Software Developer guide.**'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
